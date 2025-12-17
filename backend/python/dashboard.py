@@ -180,7 +180,7 @@ HTML_TEMPLATE = """
 </head>
 <body>
     <div class="container">
-        <h1>RAYLABS Watchtower</h1>
+        <h1>Watchtower by Ray Laboratories</h1>
         
         <div class="controls">
             <label for="hostname">Host:</label>
